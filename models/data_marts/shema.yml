@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: data_mart
+    description: "A starter dbt model"

@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: macro_categorize
+    description: "A starter dbt model"
